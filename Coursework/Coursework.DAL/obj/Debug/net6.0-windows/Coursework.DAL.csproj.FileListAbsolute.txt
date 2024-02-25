@@ -1,0 +1,34 @@
+D:\RiderProjects\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\Coursework.DAL.csproj.AssemblyReference.cache
+D:\RiderProjects\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\Coursework.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\Coursework.DAL.AssemblyInfoInputs.cache
+D:\RiderProjects\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\Coursework.DAL.AssemblyInfo.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\Coursework.DAL.csproj.CoreCompileInputs.cache
+D:\RiderProjects\AndreyCW\Coursework\Coursework.DAL\bin\Debug\net6.0-windows\Coursework.DAL.deps.json
+D:\RiderProjects\AndreyCW\Coursework\Coursework.DAL\bin\Debug\net6.0-windows\Coursework.DAL.runtimeconfig.json
+D:\RiderProjects\AndreyCW\Coursework\Coursework.DAL\bin\Debug\net6.0-windows\Coursework.DAL.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.DAL\bin\Debug\net6.0-windows\Coursework.DAL.pdb
+D:\RiderProjects\AndreyCW\Coursework\Coursework.DAL\bin\Debug\net6.0-windows\Coursework.Domain.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.DAL\bin\Debug\net6.0-windows\Coursework.Domain.pdb
+D:\RiderProjects\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\Coursework.DAL.csproj.CopyComplete
+D:\RiderProjects\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\Coursework.DAL.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\refint\Coursework.DAL.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\Coursework.DAL.pdb
+D:\RiderProjects\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\Coursework.DAL.genruntimeconfig.cache
+D:\RiderProjects\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\ref\Coursework.DAL.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.DAL\bin\Debug\net6.0-windows\Coursework.DAL.deps.json
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.DAL\bin\Debug\net6.0-windows\Coursework.DAL.runtimeconfig.json
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.DAL\bin\Debug\net6.0-windows\Coursework.DAL.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.DAL\bin\Debug\net6.0-windows\Coursework.DAL.pdb
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.DAL\bin\Debug\net6.0-windows\Coursework.Domain.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.DAL\bin\Debug\net6.0-windows\Coursework.Domain.pdb
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\Coursework.DAL.csproj.AssemblyReference.cache
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\Coursework.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\Coursework.DAL.AssemblyInfoInputs.cache
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\Coursework.DAL.AssemblyInfo.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\Coursework.DAL.csproj.CoreCompileInputs.cache
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\Coursework.DAL.csproj.CopyComplete
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\Coursework.DAL.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\refint\Coursework.DAL.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\Coursework.DAL.pdb
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\Coursework.DAL.genruntimeconfig.cache
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.DAL\obj\Debug\net6.0-windows\ref\Coursework.DAL.dll

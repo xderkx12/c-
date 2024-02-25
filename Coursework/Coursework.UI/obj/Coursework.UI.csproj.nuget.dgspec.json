@@ -1,0 +1,327 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.UI\\Coursework.UI.csproj": {}
+  },
+  "projects": {
+    "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.BLL\\Coursework.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.BLL\\Coursework.BLL.csproj",
+        "projectName": "Coursework.BLL",
+        "projectPath": "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.BLL\\Coursework.BLL.csproj",
+        "packagesPath": "C:\\Users\\creeck\\.nuget\\packages\\",
+        "outputPath": "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\creeck\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.DAL\\Coursework.DAL.csproj": {
+                "projectPath": "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.DAL\\Coursework.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.DAL\\Coursework.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.DAL\\Coursework.DAL.csproj",
+        "projectName": "Coursework.DAL",
+        "projectPath": "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.DAL\\Coursework.DAL.csproj",
+        "packagesPath": "C:\\Users\\creeck\\.nuget\\packages\\",
+        "outputPath": "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\creeck\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.Domain\\Coursework.Domain.csproj": {
+                "projectPath": "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.Domain\\Coursework.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.115.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.Domain\\Coursework.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.Domain\\Coursework.Domain.csproj",
+        "projectName": "Coursework.Domain",
+        "projectPath": "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.Domain\\Coursework.Domain.csproj",
+        "packagesPath": "C:\\Users\\creeck\\.nuget\\packages\\",
+        "outputPath": "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\creeck\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.UI\\Coursework.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.UI\\Coursework.UI.csproj",
+        "projectName": "Coursework.UI",
+        "projectPath": "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.UI\\Coursework.UI.csproj",
+        "packagesPath": "C:\\Users\\creeck\\.nuget\\packages\\",
+        "outputPath": "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\creeck\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.BLL\\Coursework.BLL.csproj": {
+                "projectPath": "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.BLL\\Coursework.BLL.csproj"
+              },
+              "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.Domain\\Coursework.Domain.csproj": {
+                "projectPath": "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.Domain\\Coursework.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.117, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

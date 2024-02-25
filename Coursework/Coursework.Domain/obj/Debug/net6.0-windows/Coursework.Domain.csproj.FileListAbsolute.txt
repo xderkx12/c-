@@ -1,0 +1,23 @@
+D:\RiderProjects\AndreyCW\Coursework\Coursework.Domain\bin\Debug\net6.0-windows\Coursework.Domain.deps.json
+D:\RiderProjects\AndreyCW\Coursework\Coursework.Domain\bin\Debug\net6.0-windows\Coursework.Domain.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.Domain\bin\Debug\net6.0-windows\Coursework.Domain.pdb
+D:\RiderProjects\AndreyCW\Coursework\Coursework.Domain\obj\Debug\net6.0-windows\Coursework.Domain.csproj.AssemblyReference.cache
+D:\RiderProjects\AndreyCW\Coursework\Coursework.Domain\obj\Debug\net6.0-windows\Coursework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\AndreyCW\Coursework\Coursework.Domain\obj\Debug\net6.0-windows\Coursework.Domain.AssemblyInfoInputs.cache
+D:\RiderProjects\AndreyCW\Coursework\Coursework.Domain\obj\Debug\net6.0-windows\Coursework.Domain.AssemblyInfo.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.Domain\obj\Debug\net6.0-windows\Coursework.Domain.csproj.CoreCompileInputs.cache
+D:\RiderProjects\AndreyCW\Coursework\Coursework.Domain\obj\Debug\net6.0-windows\Coursework.Domain.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.Domain\obj\Debug\net6.0-windows\refint\Coursework.Domain.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.Domain\obj\Debug\net6.0-windows\Coursework.Domain.pdb
+D:\RiderProjects\AndreyCW\Coursework\Coursework.Domain\obj\Debug\net6.0-windows\ref\Coursework.Domain.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.Domain\bin\Debug\net6.0-windows\Coursework.Domain.deps.json
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.Domain\bin\Debug\net6.0-windows\Coursework.Domain.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.Domain\bin\Debug\net6.0-windows\Coursework.Domain.pdb
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.Domain\obj\Debug\net6.0-windows\Coursework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.Domain\obj\Debug\net6.0-windows\Coursework.Domain.AssemblyInfoInputs.cache
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.Domain\obj\Debug\net6.0-windows\Coursework.Domain.AssemblyInfo.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.Domain\obj\Debug\net6.0-windows\Coursework.Domain.csproj.CoreCompileInputs.cache
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.Domain\obj\Debug\net6.0-windows\Coursework.Domain.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.Domain\obj\Debug\net6.0-windows\refint\Coursework.Domain.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.Domain\obj\Debug\net6.0-windows\Coursework.Domain.pdb
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.Domain\obj\Debug\net6.0-windows\ref\Coursework.Domain.dll

@@ -1,0 +1,152 @@
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.UI.exe
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.UI.deps.json
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.UI.runtimeconfig.json
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.UI.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.UI.pdb
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.csproj.AssemblyReference.cache
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\App.g.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI_MarkupCompile.cache
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI_MarkupCompile.lref
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\MainWindow.baml
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.g.resources
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.AssemblyInfoInputs.cache
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.AssemblyInfo.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.csproj.CoreCompileInputs.cache
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\refint\Coursework.UI.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.pdb
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.genruntimeconfig.cache
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\ref\Coursework.UI.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.BLL.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.BLL.pdb
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Menus\GuestMenu.g.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Menus\GuestMenu.baml
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.csproj.CopyComplete
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Guest\HelloPage.g.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Guest\HelloPage.baml
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\EntityFramework.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.DAL.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.Domain.dll
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.Domain.pdb
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.DAL.pdb
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Common\SignUpPage.g.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Common\SignUpPage.baml
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Common\LoginPage.g.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Common\LoginPage.baml
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Menus\AdminMenu.g.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Menus\DoctorMenu.g.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Menus\PatientMenu.g.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Menus\AdminMenu.baml
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Menus\DoctorMenu.baml
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Menus\PatientMenu.baml
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Common\ShowDoctorsListPage.g.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Common\ShowDoctorsListPage.baml
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Patient\ShowPatientChartsPage.g.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Patient\ShowPatientChartsPage.baml
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Doctor\ShowDoctorsChartsPage.g.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Doctor\ShowDoctorsChartsPage.baml
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Doctor\CloseChartPage.g.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Doctor\MakeNewChartPage.g.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Doctor\CloseChartPage.baml
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Doctor\MakeNewChartPage.baml
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\AddDoctorPage.g.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\AddDoctorPage.baml
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\ShowPatientsListPage.g.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\ShowPatientsListPage.baml
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\ShowChartsPage.g.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\ShowChartsPage.baml
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\ShowChambersPage.g.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\ShowChambersPage.baml
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\ShowIllnessPage.g.cs
+D:\RiderProjects\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\ShowIllnessPage.baml
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.UI.exe
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.UI.deps.json
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.UI.runtimeconfig.json
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.UI.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.UI.pdb
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\EntityFramework.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.BLL.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.DAL.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.Domain.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.BLL.pdb
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.Domain.pdb
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\bin\Debug\net6.0-windows\Coursework.DAL.pdb
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.csproj.AssemblyReference.cache
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\AddDoctorPage.g.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\ShowChambersPage.g.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\ShowChartsPage.g.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\ShowIllnessPage.g.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\ShowPatientsListPage.g.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Common\LoginPage.g.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Common\ShowDoctorsListPage.g.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Common\SignUpPage.g.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Doctor\CloseChartPage.g.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Doctor\MakeNewChartPage.g.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Doctor\ShowDoctorsChartsPage.g.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Guest\HelloPage.g.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Patient\ShowPatientChartsPage.g.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Menus\AdminMenu.g.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Menus\DoctorMenu.g.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Menus\GuestMenu.g.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Menus\PatientMenu.g.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\App.g.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI_MarkupCompile.cache
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI_MarkupCompile.lref
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\MainWindow.baml
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\AddDoctorPage.baml
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\ShowChambersPage.baml
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\ShowChartsPage.baml
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\ShowIllnessPage.baml
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Admin\ShowPatientsListPage.baml
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Common\LoginPage.baml
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Common\ShowDoctorsListPage.baml
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Common\SignUpPage.baml
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Doctor\CloseChartPage.baml
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Doctor\MakeNewChartPage.baml
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Doctor\ShowDoctorsChartsPage.baml
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Guest\HelloPage.baml
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Content\Patient\ShowPatientChartsPage.baml
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Menus\AdminMenu.baml
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Menus\DoctorMenu.baml
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Menus\GuestMenu.baml
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Pages\Menus\PatientMenu.baml
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.g.resources
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.AssemblyInfoInputs.cache
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.AssemblyInfo.cs
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.csproj.CoreCompileInputs.cache
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.csproj.CopyComplete
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\refint\Coursework.UI.dll
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.pdb
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\Coursework.UI.genruntimeconfig.cache
+E:\GGTU\2 курс 2 семестр\Курсач ООП\AndreyCW\Coursework\Coursework.UI\obj\Debug\net6.0-windows\ref\Coursework.UI.dll

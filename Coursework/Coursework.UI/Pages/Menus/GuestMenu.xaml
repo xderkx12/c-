@@ -1,0 +1,26 @@
+﻿<Page x:Class="Coursework.UI.Pages.Menus.GuestMenu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:Coursework.UI.Pages.Menus"
+      mc:Ignorable="d"
+      Title="GuestMenu">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Border Background="#FFFCF5" CornerRadius="40, 5, 40, 5" Margin="0,0,20,0" VerticalAlignment="Center" MouseEnter="TextBlock_MouseEnter" MouseLeave="TextBlock_MouseLeave">
+            <TextBlock VerticalAlignment="Center" FontSize="25" Padding="20" TextAlignment="Center">
+            <Hyperlink Click="Hyperlink_OnClick" TextDecorations="None" Foreground="Black">Страница приветствия</Hyperlink>
+            </TextBlock>
+        </Border>
+        <Border Grid.Row="1" Background="#FFFCF5" CornerRadius="40, 5, 40, 5" Margin="0,0,20,0" VerticalAlignment="Center" MouseEnter="TextBlock_MouseEnter" MouseLeave="TextBlock_MouseLeave">
+            <TextBlock VerticalAlignment="Center" FontSize="25" Padding="20" TextAlignment="Center">
+            <Hyperlink Click="Show_Docs" TextDecorations="None" Foreground="Black">Просмотр врачей</Hyperlink>
+            </TextBlock>
+        </Border>
+    </Grid>
+
+</Page>

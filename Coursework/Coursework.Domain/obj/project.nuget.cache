@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6e3Z/VZVkTkk7bR5ESTOweQJYvPo6U9WsHj8Jh57D2FeEUgmLxrRA1xOk/HzICxL91KN6XoCoLT7TwCp44OKFQ==",
+  "success": true,
+  "projectFilePath": "E:\\GGTU\\2 курс 2 семестр\\Курсач ООП\\AndreyCW\\Coursework\\Coursework.Domain\\Coursework.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\creeck\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\creeck\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\creeck\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
